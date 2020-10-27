@@ -1,0 +1,15 @@
+{
+    "name": "davajlama/schemabuildernetteextension",
+    "description": "Nette extension for SchemaBuilder with console",
+    "authors": [
+        { "name": "David Bittner" }
+    ],
+
+    "require": {
+        "davajlama/schemabuilder": "^1.0"
+    },
+
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
