@@ -6,10 +6,16 @@
     ],
 
     "require": {
-        "davajlama/schemabuilder": "^1.0"
+        "davajlama/schemabuilder": "2.0.x-dev"
     },
 
     "autoload": {
         "classmap": ["src/"]
+    },
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.1.x-dev"
+        }
     }
 }
