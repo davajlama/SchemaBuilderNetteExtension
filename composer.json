@@ -6,7 +6,7 @@
     ],
 
     "require": {
-        "davajlama/schemabuilder": "~2.0"
+        "davajlama/schemabuilder": "^2.0"
     },
 
     "autoload": {
